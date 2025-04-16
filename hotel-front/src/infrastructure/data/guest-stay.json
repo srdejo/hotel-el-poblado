@@ -1,0 +1,287 @@
+[
+  {
+    "id": "stay-304-1",
+    "roomId": "304",
+    "guests": [{ "fullName": "MILDERD ASCANIO", "phoneNumber": "3203773477" }],
+    "checkInDate": "2025-04-11T07:53:00",
+    "checkOutDate": "2025-04-11T14:15:00",
+    "payments": [
+      {
+        "id": "p1",
+        "amount": 40000,
+        "status": "completed",
+        "method": "cash",
+        "description": "room",
+        "receivedBy": "admin",
+        "date": "2025-04-11T07:53:00"
+      }
+    ],
+    "nightlyRate": 40000,
+    "additionalCharges": [],
+    "comments": []
+  },
+  {
+    "id": "stay-401",
+    "roomId": "401",
+    "guests": [
+      {
+        "fullName": "GERMAN MORALES",
+        "dni": "88,198,676",
+        "phoneNumber": "3143710963"
+      }
+    ],
+    "checkInDate": "2025-04-11T11:29:00",
+    "checkOutDate": "2025-04-11T12:55:00",
+    "payments": [
+      {
+        "id": "p2",
+        "amount": 45000,
+        "status": "pending",
+        "method": "credit",
+        "description": "room",
+        "receivedBy": "admin",
+        "date": "2025-04-11T11:29:00"
+      }
+    ],
+    "nightlyRate": 45000,
+    "additionalCharges": [],
+    "comments": []
+  },
+  {
+    "id": "stay-504",
+    "roomId": "504",
+    "guests": [{ "fullName": "RATO", "phoneNumber": "3142241377" }],
+    "checkInDate": "2025-04-11T10:59:00",
+    "checkOutDate": "2025-04-11T14:37:00",
+    "payments": [
+      {
+        "id": "p3",
+        "amount": 35000,
+        "status": "completed",
+        "method": "nequi",
+        "description": "room",
+        "receivedBy": "admin",
+        "date": "2025-04-11T10:59:00"
+      }
+    ],
+    "nightlyRate": 35000,
+    "additionalCharges": [],
+    "comments": []
+  },
+  {
+    "id": "stay-202",
+    "roomId": "202",
+    "guests": [
+      {
+        "fullName": "JUAN SEBASTIAN VELANDIA DIX",
+        "dni": "1,019,130,548",
+        "phoneNumber": "3103103850"
+      }
+    ],
+    "checkInDate": "2025-04-11T18:43:00",
+    "checkOutDate": "2025-04-12T06:08:00",
+    "payments": [
+      {
+        "id": "p4",
+        "amount": 50000,
+        "status": "completed",
+        "method": "cash",
+        "description": "room",
+        "receivedBy": "admin",
+        "date": "2025-04-11T18:43:00"
+      }
+    ],
+    "nightlyRate": 50000,
+    "additionalCharges": [],
+    "comments": []
+  },
+  {
+    "id": "stay-303",
+    "roomId": "303",
+    "guests": [
+      {
+        "fullName": "KLENDIA YELITZA TORRES FUENTES",
+        "dni": "1,007,027,964",
+        "phoneNumber": "3222597137"
+      }
+    ],
+    "checkInDate": "2025-04-11T12:37:00",
+    "checkOutDate": "2025-04-11T23:59:00",
+    "payments": [
+      {
+        "id": "p5",
+        "amount": 50000,
+        "status": "completed",
+        "method": "nequi",
+        "description": "room",
+        "receivedBy": "admin",
+        "date": "2025-04-11T12:37:00"
+      }
+    ],
+    "nightlyRate": 50000,
+    "additionalCharges": [],
+    "comments": []
+  },
+  {
+    "id": "stay-402",
+    "roomId": "402",
+    "guests": [
+      {
+        "fullName": "ROINER ANDRES QUINTERO DURAN",
+        "dni": "1,004,821,609",
+        "phoneNumber": "3108038736"
+      }
+    ],
+    "checkInDate": "2025-04-11T12:55:00",
+    "checkOutDate": "2025-04-11T23:59:00",
+    "payments": [
+      {
+        "id": "p6",
+        "amount": 70000,
+        "status": "completed",
+        "method": "cash",
+        "description": "room",
+        "receivedBy": "admin",
+        "date": "2025-04-11T12:55:00"
+      }
+    ],
+    "nightlyRate": 70000,
+    "additionalCharges": [],
+    "comments": []
+  },
+  {
+    "id": "stay-602",
+    "roomId": "602",
+    "guests": [
+      {
+        "fullName": "MILEIDIS JIMENEZ PAEZ",
+        "dni": "1,090,988,807",
+        "phoneNumber": "3144558080"
+      }
+    ],
+    "checkInDate": "2025-04-11T17:35:00",
+    "checkOutDate": "2025-04-12T07:00:00",
+    "payments": [
+      {
+        "id": "p7",
+        "amount": 50000,
+        "status": "pending",
+        "method": "cash",
+        "description": "room",
+        "receivedBy": "admin",
+        "date": "2025-04-11T17:35:00"
+      }
+    ],
+    "nightlyRate": 50000,
+    "additionalCharges": [],
+    "comments": []
+  },
+  {
+    "id": "stay-503",
+    "roomId": "503",
+    "guests": [
+      {
+        "fullName": "YULEIDIS LUQUETA BLANCO",
+        "dni": "1,099,553,733",
+        "phoneNumber": "3107975693"
+      }
+    ],
+    "checkInDate": "2025-04-11T14:41:00",
+    "checkOutDate": "2025-04-12T06:53:00",
+    "payments": [
+      {
+        "id": "p8",
+        "amount": 70000,
+        "status": "completed",
+        "method": "nequi",
+        "description": "room",
+        "receivedBy": "admin",
+        "date": "2025-04-11T14:41:00"
+      }
+    ],
+    "nightlyRate": 70000,
+    "additionalCharges": [],
+    "comments": []
+  },
+  {
+    "id": "stay-304-2",
+    "roomId": "304",
+    "guests": [
+      {
+        "fullName": "YEISON RODOLFO LOPEZ HERNANDEZ",
+        "dni": "1,091,534,794",
+        "phoneNumber": "3143468087"
+      }
+    ],
+    "checkInDate": "2025-04-11T15:18:00",
+    "checkOutDate": "2025-04-12T11:30:00",
+    "payments": [
+      {
+        "id": "p9",
+        "amount": 50000,
+        "status": "completed",
+        "method": "cash",
+        "description": "room",
+        "receivedBy": "admin",
+        "date": "2025-04-11T15:18:00"
+      }
+    ],
+    "nightlyRate": 50000,
+    "additionalCharges": [],
+    "comments": []
+  },
+  {
+    "id": "stay-302",
+    "roomId": "302",
+    "guests": [
+      {
+        "fullName": "NATHALIA FERNANDA PAEZ ORTEGA",
+        "dni": "1,004,821,746",
+        "phoneNumber": "3218809698"
+      }
+    ],
+    "checkInDate": "2025-04-11T18:28:00",
+    "checkOutDate": "2025-04-11T23:59:00",
+    "payments": [
+      {
+        "id": "p10",
+        "amount": 90000,
+        "status": "completed",
+        "method": "transfer",
+        "description": "room",
+        "receivedBy": "admin",
+        "date": "2025-04-11T18:28:00"
+      }
+    ],
+    "nightlyRate": 90000,
+    "additionalCharges": [],
+    "comments": []
+  },
+  {
+    "id": "stay-701",
+    "roomId": "701",
+    "guests": [
+      {
+        "fullName": "EIDER STEVEN SANCHEZ NAVARRO",
+        "dni": "1,091,592,025",
+        "phoneNumber": "3212812325"
+      }
+    ],
+    "checkInDate": "2025-04-11T19:36:00",
+    "checkOutDate": "2025-04-12T06:55:00",
+    "payments": [
+      {
+        "id": "p11",
+        "amount": 70000,
+        "status": "completed",
+        "method": "cash",
+        "description": "room",
+        "receivedBy": "admin",
+        "date": "2025-04-11T19:36:00"
+      }
+    ],
+    "nightlyRate": 70000,
+    "additionalCharges": [],
+    "comments": []
+  }
+]

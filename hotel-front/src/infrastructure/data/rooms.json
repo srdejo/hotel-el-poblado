@@ -1,0 +1,229 @@
+[
+  {
+    "id": "301",
+    "description": "cama sencilla 1 metro",
+    "singleBed": 1,
+    "status": "PendingCleaning",
+    "pricing": {
+      "onePerson": 40000
+    }
+  },
+  {
+    "id": "501",
+    "description": "cama sencilla 1 metro",
+    "singleBed": 1,
+    "status": "PendingCleaning",
+    "pricing": {
+      "onePerson": 40000
+    }
+  },
+  {
+    "id": "304",
+    "description": "cama doble 1.4 metros",
+    "doubleBed": 1,
+    "status": "Occupied",
+    "pricing": {
+      "onePerson": 50000,
+      "twoPeople": 70000
+    }
+  },
+  {
+    "id": "504",
+    "description": "cama doble 1.4 metros",
+    "doubleBed": 1,
+    "status": "Occupied",
+    "pricing": {
+      "onePerson": 50000,
+      "twoPeople": 70000
+    }
+  },
+  {
+    "id": "602",
+    "description": "cama doble 1.4 metros",
+    "doubleBed": 1,
+    "balconyView": true,
+    "status": "Available",
+    "pricing": {
+      "onePerson": 50000,
+      "twoPeople": 70000
+    }
+  },
+  {
+    "id": "402",
+    "description": "cama doble 1.4 metros",
+    "doubleBed": 1,
+    "balconyView": true,
+    "status": "Available",
+    "pricing": {
+      "onePerson": 50000,
+      "twoPeople": 70000
+    }
+  },
+  {
+    "id": "202",
+    "description": "cama doble 1.6 metros",
+    "doubleBed": 1,
+    "airConditioning": true,
+    "balconyView": true,
+    "status": "Available",
+    "pricing": {
+      "onePerson": 50000,
+      "twoPeople": 70000,
+      "withAir": 20000
+    }
+  },
+  {
+    "id": "701",
+    "description": "cama doble 1.6 metros",
+    "doubleBed": 1,
+    "status": "Occupied",
+    "pricing": {
+      "onePerson": 50000,
+      "twoPeople": 70000
+    }
+  },
+  {
+    "id": "503",
+    "description": "cama doble 1.6 metros",
+    "doubleBed": 1,
+    "airConditioning": true,
+    "status": "Occupied",
+    "pricing": {
+      "onePerson": 50000,
+      "twoPeople": 70000,
+      "withAir": 20000
+    }
+  },
+  {
+    "id": "303",
+    "description": "cama doble 1.6 metros",
+    "doubleBed": 1,
+    "airConditioning": true,
+    "status": "Occupied",
+    "pricing": {
+      "twoPeople": 70000,
+      "withAir": 20000
+    }
+  },
+  {
+    "id": "601",
+    "description": "cama doble 1.6 metros",
+    "doubleBed": 1,
+    "airConditioning": true,
+    "balconyView": true,
+    "status": "Occupied",
+    "pricing": {
+      "onePerson": 50000,
+      "twoPeople": 70000,
+      "withAir": 20000
+    }
+  },
+  {
+    "id": "401",
+    "description": "cama doble 1.6 metros",
+    "doubleBed": 1,
+    "airConditioning": true,
+    "balconyView": true,
+    "status": "Occupied",
+    "pricing": {
+      "twoPeople": 70000,
+      "withAir": 20000
+    }
+  },
+  {
+    "id": "201",
+    "description": "cama doble 1.6 metros",
+    "doubleBed": 1,
+    "airConditioning": true,
+    "balconyView": true,
+    "status": "Occupied",
+    "pricing": {
+      "onePerson": 50000,
+      "twoPeople": 70000,
+      "withAir": 20000
+    }
+  },
+  {
+    "id": "702",
+    "description": "cama doble, camarote, cama sencilla",
+    "doubleBed": 1,
+    "bunkBed": 1,
+    "singleBed": 1,
+    "multiple": true,
+    "airConditioning": true,
+    "status": "Occupied",
+    "pricing": {
+      "onePerson": 30000,
+      "threeOrMore": 30000,
+      "withAir": 20000
+    }
+  },
+  {
+    "id": "502",
+    "description": "cama doble, camarote, cama sencilla",
+    "doubleBed": 1,
+    "bunkBed": 1,
+    "singleBed": 1,
+    "multiple": true,
+    "status": "Occupied",
+    "pricing": {
+      "onePerson": 30000,
+      "threeOrMore": 30000
+    }
+  },
+  {
+    "id": "302",
+    "description": "cama doble, 2 camas sencillas",
+    "doubleBed": 1,
+    "singleBed": 2,
+    "multiple": true,
+    "airConditioning": true,
+    "status": "Occupied",
+    "pricing": {
+      "onePerson": 30000,
+      "threeOrMore": 30000,
+      "withAir": 20000
+    }
+  },
+  {
+    "id": "101",
+    "description": "cama doble, 2 camas sencillas",
+    "doubleBed": 1,
+    "singleBed": 2,
+    "multiple": true,
+    "airConditioning": true,
+    "status": "Occupied",
+    "pricing": {
+      "onePerson": 30000,
+      "threeOrMore": 30000,
+      "withAir": 20000
+    }
+  },
+  {
+    "id": "703",
+    "description": "cama doble 1.8 metros, 1 cama sencilla",
+    "doubleBed": 1,
+    "singleBed": 1,
+    "jacuzzi": true,
+    "airConditioning": true,
+    "status": "Available",
+    "pricing": {
+      "onePerson": 60000,
+      "twoPeople": 80000,
+      "withAir": 20000
+    }
+  },
+  {
+    "id": "801",
+    "description": "cama doble 1.8 metros",
+    "doubleBed": 1,
+    "jacuzzi": true,
+    "airConditioning": true,
+    "status": "Available",
+    "pricing": {
+      "onePerson": 60000,
+      "twoPeople": 80000,
+      "withAir": 20000
+    }
+  }
+]

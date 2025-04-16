@@ -1,0 +1,46 @@
+[
+    {
+      "id": "stay-601",
+      "roomId": "601",
+      "checkInDate": "2024-04-08",
+      "checkOutDate": "2024-04-11",
+      "nightlyRate": 90000,
+      "payments": [
+        {
+          "id": "p1",
+          "stayId": "stay-601",
+          "amount": 100000,
+          "method": "",
+          "date": "2024-04-08",
+          "receivedBy": "Recepción",
+          "status": "pending",
+          "description": "Pago de habitacion"
+        },
+        {
+          "id": "p2",
+          "stayId": "stay-601",
+          "amount": 50000,
+          "method": "Nequi",
+          "date": "2024-04-08",
+          "receivedBy": "Recepción"
+        }
+      ],
+      "penalties": [
+        {
+          "description": "Daño en sábana",
+          "amount": 10000
+        }
+      ],
+      "additionalCharges": [
+        {
+          "description": "Agua embotellada",
+          "amount": 5000
+        }
+      ],
+      "comments": [
+        "Solicitó toalla adicional",
+        "Cliente frecuente"
+      ]
+    }
+  ]
+  
